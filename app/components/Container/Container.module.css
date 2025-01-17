@@ -1,0 +1,23 @@
+@media (min-width: 1401px) {
+
+    .container {
+        width: 1380px;
+    }
+
+    .container main {
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+}
+
+
+@media (min-width: 1160px) and (max-width: 1399px) {
+
+    .container {
+        width: 1140px;
+        background-color: aquamarine;
+    }
+
+}
